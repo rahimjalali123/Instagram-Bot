@@ -11,23 +11,23 @@
     "repository": "https://github.com/subinps/Instagram-Bot",
     "env": {
       "API_ID": {
-        "description": "Get this value from https://my.telegram.org",
+        "description": "9636130",
         "value": ""
       },
       "API_HASH": {
-        "description": "Get this value from https://my.telegram.org",
+        "description": "355ecfef8a79d604568cd7bad3914496",
         "value": ""
       },
       "BOT_TOKEN": {
-        "description": "Your bot token from @BotFather",
+        "description": "7117583869:AAHzBIv5to_Y4eRiG7sI13V7FcA3QSbH6SA",
         "value": ""
       },
       "OWNER_ID": {
-        "description": "Enter Your Telegram id",
+        "description": "@rahimjalali",
         "value": ""
       },
       "INSTAGRAM_USERNAME": {
-        "description": "Enter your Instagram Username without @ , Example: samantharuthprabhuoffl",
+        "description": "rahcti",
         "value": ""
       },
       "INSTA_SESSIONFILE_ID": {
